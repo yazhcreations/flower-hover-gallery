@@ -15,16 +15,11 @@ This project is a simple and visually appealing **flower image gallery** that de
 
 ---
 
-## 📷 Preview
-
-![Flower Hover Gallery](https://github.com/yazhcreations/flower-hover-gallery/assets/your-user-id/screenshot.png)
-
----
 
 ## 🛠️ Built With
 
 - HTML5
-- CSS3 (Flexbox, transitions, hover effects)
+- CSS3 ( transitions, hover effects)
 
 ---
 
@@ -40,7 +35,7 @@ flower-hover-gallery/
 
 ## 🚀 Live Demo
 
-👉 [Click to View Demo](https://yazhcreations.github.io/flower-hover-gallery)
+👉 [Click to View Demo](https://yazhcreations.github.io/flower-hover-gallery/)
 
 ---
 
